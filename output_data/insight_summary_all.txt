@@ -1,0 +1,8 @@
+Leadership Sentiment Summary Across Meetings
+Alex_R_14Sep25: Sarah=0.27, Team=0.27, Δ=-0.00
+Alex_R_21Sep25: Sarah=0.37, Team=0.31, Δ=+0.05
+Alex_R_28Sep25: Sarah=0.12, Team=0.18, Δ=-0.06
+Alex_R_6Oct25: Sarah=0.13, Team=0.20, Δ=-0.07
+Javier_M_22Sep25: Sarah=0.24, Team=0.21, Δ=+0.03
+Javier_M_7Oct25: Sarah=0.34, Team=0.38, Δ=-0.03
+Javier_M_7Sep25: Sarah=0.30, Team=0.18, Δ=+0.12

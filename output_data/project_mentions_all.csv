@@ -1,0 +1,71 @@
+﻿Meeting,Speaker,Owner,Sentence,Project,Method,Progress,Sentiment
+Alex_R_14Sep25,Sarah,Manager,"I was thinking we could start with the mobile app stuff, then hit the OKRs, and save some time for the career development conversation.","['the mobile app stuff ,']",[],,0.4939
+Alex_R_14Sep25,Alex,DirectReport,the good news is we're tracking pretty well on the current sprint.,[],['Agile'],,0.802
+Alex_R_14Sep25,Alex,DirectReport,"Should hit our sprint goal, which is great.",[],['Agile'],,0.6249
+Alex_R_14Sep25,Alex,DirectReport,"I'm gonna be honest, Sarah, the feature requests are driving me a little crazy.","[', the feature requests are']",[],,0.2944
+Alex_R_14Sep25,Alex,DirectReport,"Like, I'm trying to keep us focused on the roadmap, but then someone brings up a feature request in the all-hands and suddenly everyone's asking me when we're gonna build it.",['up a feature request in'],[],,0.3716
+Alex_R_14Sep25,Alex,DirectReport,Sales is pushing really hard for this social sharing feature.,['social sharing feature .'],[],,0.2748
+Alex_R_14Sep25,Sarah,Manager,"We can't build everything, and trying to make everyone happy is a recipe for building nothing well.",['make everyone happy is a'],[],,0.4378
+Alex_R_14Sep25,Alex,DirectReport,I don't like disappointing people.,"[""n't like disappointing people .""]",[],,0.1326
+Alex_R_14Sep25,Sarah,Manager,"I get it, but remember - you're not disappointing them, you're protecting the product and the team.","[""'re not disappointing them ,""]",[],,0.5334
+Alex_R_14Sep25,Sarah,Manager,We can't let their slow response derail our project.,['derail our project .'],[],,-0.296
+Alex_R_14Sep25,Alex,DirectReport,Users are loving the new dashboard.,['the new dashboard .'],[],,0.5994
+Alex_R_14Sep25,Alex,DirectReport,"We're seeing tons of positive comments on social media, app store reviews are up...","['media , app store reviews']",[],,0.5574
+Alex_R_14Sep25,Alex,DirectReport,"I've already created a ticket for engineering to investigate, and I reached out to a few users who reported it to get more details about their devices and what they were doing when it happened.","['users who reported it to', 'when it happened .']",[],,0.34
+Alex_R_14Sep25,Sarah,Manager,"Good, that's exactly the right approach.",['the right approach .'],[],,0.4404
+Alex_R_14Sep25,Sarah,Manager,Let's make sure we allocate some capacity next sprint to address it.,[],['Agile'],,0.3182
+Alex_R_14Sep25,Alex,DirectReport,New features versus keeping the existing stuff working well.,['New features versus keeping'],[],,0.2732
+Alex_R_14Sep25,Alex,DirectReport,Definitely the new dashboard.,['the new dashboard .'],[],,0.4019
+Alex_R_14Sep25,Alex,DirectReport,"But the second key result, the search feature adoption, that's where I'm worried.","['the search feature adoption ,']",[],,-0.4215
+Alex_R_14Sep25,Alex,DirectReport,"Like, we had this initial spike when we launched, but then it just...",[],['Product'],,0.25
+Alex_R_14Sep25,Alex,DirectReport,I want to do an in-app messaging campaign to highlight the advanced features.,"['in - app messaging campaign', 'the advanced features .']",[],,0.5719
+Alex_R_14Sep25,Sarah,Manager,"The messaging campaign you can probably launch pretty quickly, right?",[],['Product'],,0.4939
+Alex_R_14Sep25,Alex,DirectReport,"I feel like I've gotten pretty comfortable with the execution side - working with engineering, managing sprints, shipping features.","[', shipping features .']",['Agile'],,0.8402
+Alex_R_14Sep25,Alex,DirectReport,I really appreciate all the support and guidance.,['I really appreciate all the'],[],,0.6901
+Alex_R_21Sep25,Alex,DirectReport,"I’m hoping it cuts down on the ""but my feature is more important"" drive-bys.",['but my feature is more'],[],,0.4478
+Alex_R_21Sep25,Alex,DirectReport,"So, we launched it on Tuesday.",[],['Product'],,0.197
+Alex_R_21Sep25,Sarah,Manager,"2% is not a ""fix it next sprint"" number.",[],['Agile'],,0.0772
+Alex_R_21Sep25,Sarah,Manager,"You unblocked the vendor, launched a successful campaign, and you’re already taking real ownership of the Q4 planning.",[],['Product'],,0.6486
+Alex_R_21Sep25,Alex,DirectReport,I really appreciate it.,['I really appreciate it .'],[],,0.4576
+Alex_R_28Sep25,Alex,DirectReport,"He said, So this 'Health &Maintenance' score that means my revenue feature gets a lower score than some 'refactor'?",['my revenue feature gets a'],[],,-0.296
+Alex_R_28Sep25,Alex,DirectReport,"I said, Well, not necessarily, it's all weighted, and 'Business Impact' is still the highest weight, so a high-revenue feature would score very well and he just kind of cut me off.",['- revenue feature would score'],[],,0.2732
+Alex_R_28Sep25,Alex,DirectReport,"I just I think I stammered something like, I I'm just trying to create a transparent system, and he just scoffed.","['a transparent system , and']",[],,0.4019
+Alex_R_28Sep25,Sarah,Manager,"I'm happy to take your thoughts on the weighting offline, but for the sake of everyone else's time, we need to move on to the next agenda item.","[""I 'm happy to take""]",[],,0.2732
+Alex_R_28Sep25,Sarah,Manager,"The model is approved, it's in place.","['model is approved , it']",[],,0.4215
+Alex_R_28Sep25,Alex,DirectReport,"So that, plus the in-app messaging campaign I'm feeling really good about hitting our 25% target this quarter.",['in - app messaging campaign'],[],,0.5709
+Alex_R_28Sep25,Alex,DirectReport,"We had a quick sync this morning, and she thinks our current rule-based system is, uh her word was suboptimal, which I'm pretty sure is data-scientist-speak for complete garbage.","['- based system is ,']",[],,0.6705
+Alex_R_28Sep25,Alex,DirectReport,"He just wrote, Does this stability 'reprioritization' impact the timeline for the social sharing feature we discussed?",['social sharing feature we discussed'],[],,0.4215
+Alex_R_28Sep25,Alex,DirectReport,"The social sharing feature is still in the 'ideas' backlog, and we can score it with the new prioritization model once it's ready for review.",['social sharing feature is still'],[],,0.6486
+Alex_R_28Sep25,Sarah,Manager,"It 'Project Bedrock' it sounds big and important, but 70%?","[""It ' Project Bedrock '""]",[],,0.1027
+Alex_R_28Sep25,Sarah,Manager,Your onboarding project is critical.,['Your onboarding project is critical'],[],,-0.3182
+Alex_R_28Sep25,Alex,DirectReport,I I don't want to be the PM who was who was pushing for new features when the whole house was on fire.,['for new features when the'],[],,-0.3863
+Alex_R_28Sep25,Sarah,Manager,'Project Bedrock' has it has zero direct user value.,"[""' Project Bedrock '""]",[],,0.34
+Alex_R_28Sep25,Sarah,Manager,"We are just supposed to sacrifice an entire quarter of growth, an entire quarter of momentum, for an internal engineering project?",['internal engineering project ?'],[],,0.3818
+Alex_R_28Sep25,Alex,DirectReport,He's he's losing most of his team to this Bedrock project.,['this Bedrock project .'],[],,-0.3818
+Alex_R_28Sep25,Sarah,Manager,You have to create a plan that shows why our product initiatives are more important than than some percentage of this Bedrock project.,['this Bedrock project .'],[],,0.4927
+Alex_R_28Sep25,Alex,DirectReport,How how do I score a P0 security project against a new feature?,"['P0 security project against a', 'a new feature ?']",[],,0.34
+Alex_R_28Sep25,Sarah,Manager,Don't don't let this 'Project Bedrock' thing intimidate you.,"[""this ' Project Bedrock '""]",[],,-0.2023
+Alex_R_6Oct25,Sarah,Manager,We’re not we're not here to fight you on the the need for the project.,['for the project .'],[],,0.2924
+Alex_R_6Oct25,Alex,DirectReport,"We could have that person embed with her, so her discovery sprint isn't just a a proposal with with mock data.",[],['Agile'],,-0.4215
+Alex_R_6Oct25,Alex,DirectReport,I I appreciate you asking.,['I I appreciate you asking'],[],,0.4019
+Alex_R_6Oct25,Alex,DirectReport,Disappointed in me.,['Disappointed in me'],[],,-0.4767
+Alex_R_6Oct25,Alex,DirectReport,I I appreciate that.,['I I appreciate that .'],[],,0.4019
+Alex_R_6Oct25,Sarah,Manager,You you didn't just just report the problem.,['just just report the problem'],[],,-0.4019
+Alex_R_6Oct25,Alex,DirectReport,The the first Q4 plan it it felt like like I was just just reporting on on what we we already decided.,['just just reporting on on'],[],,0.6124
+Javier_M_22Sep25,Javier,DirectReport,We are working with the frontend engineering manager to secure a small percentage of each sprint for this technical debt.,[],['Agile'],,-0.0258
+Javier_M_22Sep25,Sarah,Manager,"It feels like we are investing heavily in this big project, the automation, but I can't tell anyone when it will pay off.","['this big project , the']",[],,0.0387
+Javier_M_22Sep25,Javier,DirectReport,We are preventing the checkout bug before it even happens.,['it even happens .'],[],,-0.0258
+Javier_M_22Sep25,Sarah,Manager,I have to get approval from finance.,['to get approval from finance'],[],,0.4767
+Javier_M_22Sep25,Javier,DirectReport,I would like to build a health check dashboard .,['health check dashboard .'],[],,0.3612
+Javier_M_22Sep25,Sarah,Manager,"And this new dashboard project, it feels like a distraction.","['this new dashboard project ,', 'new dashboard project , it']",[],,-0.0258
+Javier_M_22Sep25,Javier,DirectReport,It is QA Approved .,['is QA Approved .'],[],,0.4215
+Javier_M_22Sep25,Sarah,Manager,And we are postponing the health dashboard idea to focus on the automation roadmap .,['the health dashboard idea to'],[],,-0.128
+Javier_M_7Oct25,Sarah,Manager,I got the budget approved.,['the budget approved .'],[],,0.4215
+Javier_M_7Oct25,Javier,DirectReport,I really appreciate you pushing for that.,['I really appreciate you pushing'],[],,0.4576
+Javier_M_7Oct25,Sarah,Manager,I’m happy it worked out.,['I ’m happy it worked'],[],,0.5719
+Javier_M_7Oct25,Sarah,Manager,I think it's a system problem.,"[""'s a system problem .""]",[],,-0.4019
+Javier_M_7Oct25,Javier,DirectReport,It would also help us estimate the full project .,['the full project .'],[],,0.4019
+Javier_M_7Sep25,Javier,DirectReport,"The the user had to apply a coupon code, then change their shipping state from say California to a state with no sales tax, like Oregon, and then go back and change the quantity of the item.",['had to apply a coupon'],[],,0.0772
+Javier_M_7Sep25,Sarah,Manager,"It it just feels like like everything points back to this this big, abstract automation project that that has no end date.",['abstract automation project that that'],[],,0.4215
+Javier_M_7Sep25,Sarah,Manager,And and I appreciate how how focused you are on the the execution.,['and I appreciate how how'],[],,0.6486
+Javier_M_7Sep25,Sarah,Manager,We we can get it approved.,['get it approved .'],[],,0.4215
