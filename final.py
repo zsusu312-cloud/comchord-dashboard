@@ -1,3 +1,5 @@
+# (Disabled in Streamlit Cloud deployment)
+
 # -*- coding: utf-8 -*-
 """
 Multi-Meeting Leadership NLP Analysis
@@ -269,3 +271,4 @@ print(" - manager_report_block_all.csv")
 print(" - project_mentions_all.csv")
 print(" - insight_summary_all.txt")
 print(" - leadership_kpis.csv")
+
